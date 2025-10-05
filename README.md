@@ -13,6 +13,7 @@ This repository contains the final copies of lab files for the **AI-102-A** cour
 | 3 | Create a Generative AI App That Uses Your Own Data | Develop a generative AI application that leverages your custom data sources for enhanced, domain-specific responses. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-studio/blob/main/Instructions/04-Use-own-data.md) |
 | 4 | Fine-tune a language model | The model catalog in Azure AI Foundry offers many open-source models that can be fine-tuned for your specific model behavior needs. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-studio/blob/main/Instructions/05-Finetune-model.md) |
 | 5 | Plan a responsible generative AI solution | Apply content filters to prevent the output of harmful content. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-studio/blob/main/Instructions/06-Explore-content-filters.md) |
+| 6 | Evaluate generative AI model performance  | Manual and automated evaluations to assess the performance of a model. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-studio/blob/main/Instructions/07-Evaluate-prompt-flow.md) |
 
 ---
 
