@@ -32,7 +32,8 @@ This repository contains the final copies of lab files for the **AI-102-A** cour
 | 10 | Develop a multi-agent solution with Azure AI Foundry  | build-multi-agent-solution. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-agents/blob/main/Instructions/03b-build-multi-agent-solution.md) |
 | 11 | Connect AI Agents to a remote MCP server   | use-agent-tools-with-mcp.md. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-agents/blob/main/Instructions/03c-use-agent-tools-with-mcp.md) |
 | 12 | Connect AI Agents to a local MCP server  | use-local-mcp-server-tools.md. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-agents/blob/main/Instructions/03d-use-local-mcp-server-tools.md) |
-| 13 | Analyze text  |Analyze text, including language detection, sentiment analysis, key phrase extraction, and entity recognition. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-language/blob/main/Instructions/Labs/01-analyze-text.md) |
+| 13 | Analyze text  | Analyze text, including language detection, sentiment analysis, key phrase extraction, and entity recognition. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-language/blob/main/Instructions/Labs/01-analyze-text.md) |
+| 13 | Create a Question Answering Solution | support through a knowledge base of frequently asked questions (FAQs). | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-language/blob/main/Instructions/Labs/02-qna.md) |
 
 ---
 
