@@ -40,7 +40,9 @@ This repository contains the final copies of lab files for the **AI-102-A** cour
 | 18 | Read text in images   | OCR -Reading text in images and documents. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/02-ocr.md) |
 | 19 | Detect and analyze faces   |  AI Face Service Detect and analyze human faces. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/03-face-service.md) |
 | 20 | Classify images   |  Train an image classification model that can identify classes. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/04-image-classification.md) |
-| 21 | Develop a vision-enabled chat app   |  Use the Azure AI Custom Vision service to train an object detection model. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/05-custom-vision-object-detection.md) |
+| 21 | Detect objects in images   |  Use the Azure AI Custom Vision service to train an object detection model. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/05-custom-vision-object-detection.md) |
+| 22 | Develop a vision-enabled chat app   |  Use Azure AI Foundry to build a generative AI app that supports image input. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/08-gen-ai-vision.md) |
+
 ---
 
 ## 🚀 Getting Started
