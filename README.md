@@ -41,8 +41,9 @@ This repository contains the final copies of lab files for the **AI-102-A** cour
 | 19 | Detect and analyze faces   |  AI Face Service Detect and analyze human faces. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/03-face-service.md) |
 | 20 | Classify images   |  Train an image classification model that can identify classes. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/04-image-classification.md) |
 | 21 | Detect objects in images   |  Use the Azure AI Custom Vision service to train an object detection model. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/05-custom-vision-object-detection.md) |
-| 22 | Develop a vision-enabled chat app   |  Use Azure AI Foundry to build a generative AI app that supports image input. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/08-gen-ai-vision.md) |
-| 23 | Generate images with AI   |  Use an OpenAI a DALL-E model in Azure AI Foundry to generate images. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/09-dall-e.md) |
+| 22 | Develop a vision-enabled chat app   | Use Azure AI Foundry to build a generative AI app that supports image input. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/08-gen-ai-vision.md) |
+| 23 | Generate images with AI   | Use an OpenAI a DALL-E model in Azure AI Foundry to generate images. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/09-dall-e.md) |
+| 24 | Extract information from multimodal content | Content Understanding to extract insights from documents, images, audio recordings, and videos. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-information-extraction/blob/main/Instructions/Labs/01-content-understanding.md) |
 
 ---
 
