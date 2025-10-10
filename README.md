@@ -44,6 +44,7 @@ This repository contains the final copies of lab files for the **AI-102-A** cour
 | 22 | Develop a vision-enabled chat app   | Use Azure AI Foundry to build a generative AI app that supports image input. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/08-gen-ai-vision.md) |
 | 23 | Generate images with AI   | Use an OpenAI a DALL-E model in Azure AI Foundry to generate images. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-vision/blob/main/Instructions/Labs/09-dall-e.md) |
 | 24 | Extract information from multimodal content | Content Understanding to extract insights from documents, images, audio recordings, and videos. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-information-extraction/blob/main/Instructions/Labs/01-content-understanding.md) |
+| 25 | Develop a Content Understanding client application | Use Azure AI Content Understanding REST API to develop a client app for an analyzer. | [View Lab](https://github.com/MicrosoftLearning/mslearn-ai-information-extraction/blob/main/Instructions/Labs/02-content-understanding-api.md) |
 
 ---
 
